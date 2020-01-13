@@ -1,7 +1,3 @@
-install.packages("spdep")
-install.packages("GISTools")
-install.packages("spatialreg")
 install.packages("rgdal")
-install.packages("RColorBrewer")
 install.packages("GWmodel")
 install.packages("tmap")
